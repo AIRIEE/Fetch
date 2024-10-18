@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parit\\Fetch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|c:\\users\\parit\\fetch\\assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|c:\\users\\parit\\fetch\\assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|c:\\users\\parit\\fetch\\assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED8C8E3-AD41-D324-ED19-B60F630ACB88}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:42:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:28:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestroyOutOfBoundsX.cs",
+              "DocumentMoniker": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ToolTip": "C:\\Users\\parit\\Fetch\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:24:35.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
